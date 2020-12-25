@@ -1,0 +1,12 @@
+server:
+  port: 18080
+  servlet:
+    context-path: /tools
+
+
+# slf4j日志配置
+logging:
+  # 配置级别
+  #分包配置级别，即不同的目录下可以使用不同的级别
+  level:
+    com: info

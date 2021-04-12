@@ -89,9 +89,9 @@ public class DESHelper {
 		System.out.println("密码："+pwd);
 		
 		System.out.println("===========加密后=============");
-		url = "iVjtp6JojWy1ZrTeHi2P+G0f3wFFXXV6Lewl6/+lVj87H7WzR+MQePMe87SzVfKx";
-		user = "3aehrIx5rDM=";
-		pwd = "0SD3pXXWcggX75HvAbbYjA==";
+		url = "I0wwXn6Hxt7N6Beyfxi8IOEYe4rc057T9SyTPPLOyyFN9SZTDj53RA26JmaJOKpHNRXZkIM0ul+qV9lX93UCvTvBlQZwpTjwYi24kIrGk5VvYGCExMER0hnFwI8drpbZgkMqW6DUBFIBdRNilZW9DA==";
+		user = "eit7mJYwJL4=";
+		pwd = "g/k0vQB05arz1zTikR56/A==";
 		System.out.println("链接："+url);
 		System.out.println("用户名："+user);
 		System.out.println("密码："+pwd);
